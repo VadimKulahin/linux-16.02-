@@ -1,0 +1,8 @@
+   0 mkdir -p /home/user/start /opt/task 
+   1 touch /home/user/start/1.txt /opt/task/start.txt 
+   2 vi /home/user/start/1.tx 
+   3 date >> /home/user/start/1.txt 
+   4 cp /home/user/start/1.txt /opt/task/start.txt 
+   5 ls / | tail -4 >> /opt/task/start.txt 
+   6 history 
+   7 history > history 16.02 
